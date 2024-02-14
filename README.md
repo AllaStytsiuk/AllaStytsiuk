@@ -12,7 +12,8 @@ Here are some ideas to get you started:
 - 📫 How to reach me: Instagram, Facebook
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
-- Technologies I have previously worked with:
+- 
+  Technologies I have previously worked with:
 
 - JavaScript, HTML, CSS
 - MERN Stack (MongoDB, ExpressJS, ReactJS, NodeJS) and Next.js
